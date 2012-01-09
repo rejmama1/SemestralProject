@@ -1,0 +1,19 @@
+Mon, 09 Jan 2012 11:00:29 +0100
+./lib/dynamic/dynamic_algorithm.rb	Mon, 09 Jan 2012 10:50:42 +0100
+./lib/genetic/chromosome.rb	Mon, 09 Jan 2012 10:59:23 +0100
+./lib/genetic/genetic_algorithm.rb	Sun, 08 Jan 2012 19:48:56 +0100
+./lib/genetic/simple_mutation.rb	Mon, 09 Jan 2012 11:00:18 +0100
+./lib/genetic/tournament_selection.rb	Sun, 08 Jan 2012 19:51:25 +0100
+./lib/genetic/uniform_reproduction.rb	Sun, 08 Jan 2012 19:53:29 +0100
+./lib/main.rb	Mon, 09 Jan 2012 10:26:18 +0100
+./lib/naive/naive_algorithm.rb	Mon, 09 Jan 2012 10:57:42 +0100
+./lib/naive/stack.rb	Sat, 07 Jan 2012 16:05:36 +0100
+./lib/problem/configuration.rb	Sun, 08 Jan 2012 19:55:11 +0100
+./lib/problem/knap_sack.rb	Sun, 08 Jan 2012 19:55:49 +0100
+./lib/problem/writable_result.rb	Sun, 08 Jan 2012 19:56:04 +0100
+./LICENSE	Sat, 07 Jan 2012 13:31:10 +0100
+./nbproject/private/rake-d.txt	Sat, 07 Jan 2012 13:31:13 +0100
+./Rakefile	Sat, 07 Jan 2012 13:31:10 +0100
+./README	Sat, 07 Jan 2012 13:31:10 +0100
+./test/test1.txt	Mon, 09 Jan 2012 10:47:09 +0100
+./test/tests.rb	Mon, 09 Jan 2012 10:51:54 +0100
