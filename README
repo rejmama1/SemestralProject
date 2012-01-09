@@ -1,0 +1,14 @@
+spouštění
+
+ruby -I . lib/main.rb instance.file number_of_instances algorithm [population_size, mutation_rate,cycle]
+
+algorithms:
+0 - naive
+1 - dynamic
+2 - genetic
+
+testy
+
+ruby -I . test/tests.rb
+
+Dokumentace v adresáři doc
